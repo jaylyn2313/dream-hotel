@@ -1,0 +1,94 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+
+    <meta name="description" content="Hotel BlockAid | Social Responsible Hotel">
+   
+      <meta name="author" content="Jaylyn Kellen">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>HOTEL BLOCKAID</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800" rel="stylesheet"> 
+
+    <link rel="stylesheet" href="css/foundation.css">
+    <link rel="stylesheet" href="css/app.css">
+  </head>
+  <body>
+
+    <header class="grid-x">
+      <div class="small-12 cell">
+        <h1>HOTEL</h1>
+        <h2>BLOCKAID</h2>
+      </div>
+    </header>
+
+    <section class="grid-x hero">
+      <div class="small-12 cell">
+        <h3>Helpig yourself while helping others.</h3>
+      </div>
+    </section>
+
+    <section class="grid-x hotelMission">
+      <div class="small-12 cell">
+        <h3>Change your world. And theirs.</h3>
+        <p>Jelly beans toffee pudding tiramisu sesame snaps donut. Wafer halvah sweet chocolate cookie. Pastry pie chocolate bar bear claw pastry carrot cake.</p>
+        <p>Pie toffee gummies cake sweet. Tart shortbread chocolate lollipop cupcake tiramisu dessert tootsie roll. Lollipop lollipop pudding lemon drops chupa chups shortbread tiramisu jelly beans topping. Marzipan muffin danish bonbon sweet sweet roll shortbread liquorice.</p>
+      </div>
+    </section>
+
+    <section class="grid-x bg1">
+      <div class="small-12 cell">
+      </div>
+    </section>
+
+<section class="grid-x rooms">
+  <div class="small-12 medium-4 cell dark">
+    <h1>Humanitarian</h1>
+    <h2>Sub heading</h2>
+    <h3>&bullet; List-item 1</h3>
+    <h3>&bullet; List-item 2</h3>
+    <h3>&bullet; List-item 3</h3>
+    <h3>&bullet; List-item 4</h3>
+  </div>
+
+  <div class="small-12 medium-4 cell light">
+    <h1>Environment</h1>
+    <h2>Sub heading</h2>
+    <h3>&bullet; List-item 1</h3>
+    <h3>&bullet; List-item 2</h3>
+    <h3>&bullet; List-item 3</h3>
+    <h3>&bullet; List-item 4</h3>
+  </div>
+
+  <div class="small-12 medium-4 cell dark">
+    <h1>Future</h1>
+    <h2>Sub heading</h2>
+    <h3>&bullet; List-item 1</h3>
+    <h3>&bullet; List-item 2</h3>
+    <h3>&bullet; List-item 3</h3>
+    <h3>&bullet; List-item 4</h3>
+  </div>
+</section>
+
+
+
+    <section class="grid-x bg2">
+      <div class="small-12 cell">
+      </div>
+    </section>
+
+<footer>
+  &copy; Copyright 2023 | All Rights Reserved
+</footer>
+
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/vendor/what-input.js"></script>
+    <script src="js/vendor/foundation.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
